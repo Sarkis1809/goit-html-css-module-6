@@ -254,22 +254,22 @@
   color: #fff;
 }
 .facebook {
-  background-image: url(/images/facebook.png);
+  background-image: url(../images/facebook.png);
   background-repeat: no-repeat;
   background-position: center;
 }
 .twitter {
-  background-image: url(/images/twitter.png);
+  background-image: url(../images/twitter.png);
   background-repeat: no-repeat;
   background-position: center;
 }
 .pinterest {
-  background-image: url(/images/pinterest.png);
+  background-image: url(../images/pinterest.png);
   background-repeat: no-repeat;
   background-position: center;
 }
 .instagram {
-  background-image: url(/images/instagram.png);
+  background-image: url(../images/instagram.png);
   background-repeat: no-repeat;
   background-position: center;
 }
