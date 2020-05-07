@@ -253,21 +253,25 @@
 .team-card .main-content .overlay .list-link:hover .icon {
   color: #fff;
 }
-.facebook::before {
-  content: url(/images/facebook.png);
-  width: 16px;
+.facebook {
+  background-image: url(/images/facebook.png);
+  background-repeat: no-repeat;
+  background-position: center;
 }
-.twitter::before {
-  content: url(/images/twitter.png);
-  width: 16px;
+.twitter {
+  background-image: url(/images/twitter.png);
+  background-repeat: no-repeat;
+  background-position: center;
 }
-.pinterest::before {
-  content: url(/images/pinterest.png);
-  width: 16px;
+.pinterest {
+  background-image: url(/images/pinterest.png);
+  background-repeat: no-repeat;
+  background-position: center;
 }
-.instagram::before {
-  content: url(/images/instagram.png);
-  width: 16px;
+.instagram {
+  background-image: url(/images/instagram.png);
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .team-card:before {
   display: block;
