@@ -253,17 +253,21 @@
 .team-card .main-content .overlay .list-link:hover .icon {
   color: #fff;
 }
-.facebook::after{
+.facebook::after {
   content: url(/images/facebook.png);
+  width: 16px;
 }
-.twitter::after{
+.twitter::after {
   content: url(/images/twitter.png);
+  width: 16px;
 }
-.pinterest::after{
+.pinterest::after {
   content: url(/images/pinterest.png);
+  width: 16px;
 }
-.instagram::after{
+.instagram::after {
   content: url(/images/instagram.png);
+  width: 16px;
 }
 .team-card:before {
   display: block;
