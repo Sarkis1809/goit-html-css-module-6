@@ -253,19 +253,19 @@
 .team-card .main-content .overlay .list-link:hover .icon {
   color: #fff;
 }
-.facebook::after {
+.facebook::before {
   content: url(/images/facebook.png);
   width: 16px;
 }
-.twitter::after {
+.twitter::before {
   content: url(/images/twitter.png);
   width: 16px;
 }
-.pinterest::after {
+.pinterest::before {
   content: url(/images/pinterest.png);
   width: 16px;
 }
-.instagram::after {
+.instagram::before {
   content: url(/images/instagram.png);
   width: 16px;
 }
